@@ -10,7 +10,9 @@ The dataset can be found at the following link: [[TDC Commons - HERG-Karim et al
 ## How to Download the Repository
 You can use the following command:
 
-git clone <repository_url>
+```bash
+git clone https://github.com/tusharagashe/cdd203finalMLP
+```
 
 ## Setting Up the Virtual Environment
 Use a conda environment to ensure all dependencies are maanged. Follow these steps to set up the environment and install the required packages:
